@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+data/
+*.p8
+*.pem
+.env
+.streamlit/secrets.toml
+.claude/
+VIDEO_SCRIPT.md
+.DS_Store

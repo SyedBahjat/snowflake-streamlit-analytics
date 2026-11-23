@@ -1,0 +1,3 @@
+streamlit==1.67.0
+snowflake-connector-python[pandas]==5.2.0
+duckdb==2.0.1
